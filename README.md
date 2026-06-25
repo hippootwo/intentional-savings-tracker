@@ -3,7 +3,7 @@
 **Kaggle Capstone Project**
 
 ## Overview
-The Intentional Spending Tracker is a modern, full-stack web application designed to help users consciously track their financial flow. Instead of simply logging expenses passively, this tracker emphasizes *intent*—requiring users to categorize and describe their spending, and explicitly confirm their intent before submission. This project is for the Google/Kaggle Capstone project. Check this link for the main topics this project should cover for the submission: https://www.kaggle.com/competitions/vibecoding-agents-capstone-project
+The Intentional Savings Tracker is a modern, full-stack web application designed to help users consciously track their financial flow. Instead of simply logging expenses passively, this tracker emphasizes *intent*—requiring users to categorize and describe their spending, and explicitly confirm their intent before submission. This project is for the Google/Kaggle Capstone project. Check this link for the main topics this project should cover for the submission: https://www.kaggle.com/competitions/vibecoding-agents-capstone-project
 
 ## Architecture
 
