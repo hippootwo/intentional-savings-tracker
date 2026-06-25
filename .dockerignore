@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+frontend/
+node_modules/
+.git/
+.agents/**/*.tmp
+serviceAccountKey.json

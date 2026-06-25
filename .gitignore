@@ -1,0 +1,23 @@
+# Secrets & credentials
+serviceAccountKey.json
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Node / Frontend
+node_modules/
+dist/
+.cache/
+
+# Firebase
+.firebase/
+
+# OS
+.DS_Store
+Thumbs.db

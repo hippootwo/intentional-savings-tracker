@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.dockerignore
+backend/
+frontend/
+node_modules/
+.env
+serviceAccountKey.json
+__pycache__/
+*.pyc

@@ -1,0 +1,25 @@
+{
+  "hooks": [
+    {
+      "name": "pre-commit-semgrep",
+      "type": "gating",
+      "description": "Runs local static analysis to catch leaked credentials before commit.",
+      "enabled": true,
+      "enforce_action": "block"
+    },
+    {
+      "name": "pre-llm-security-screen",
+      "type": "runtime",
+      "description": "Deterministic screen node that runs before the LLM node to prevent prompt injection.",
+      "enabled": true,
+      "enforce_action": "pause_for_human"
+    },
+    {
+      "name": "dangerous-shell-commands",
+      "type": "execution",
+      "description": "Requires explicit user approval before the agent executes potentially dangerous shell commands.",
+      "enabled": true,
+      "enforce_action": "require_approval"
+    }
+  ]
+}
