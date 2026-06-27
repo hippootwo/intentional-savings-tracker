@@ -1,4 +1,4 @@
-# Intentional Spending Tracker
+# Intentional Savings Tracker
 
 **Kaggle Capstone Project**
 
